@@ -3,3 +3,23 @@ body {
   height: 100%;
   margin: 0;
 }
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50px;;
+}
+nav{
+  text-align: center;
+}
+#featured-property p {
+  width: 800px;
+  text-align: center;
+  margin: 8px auto;
+}
+#details p{float: left; 
+}
+
+h1{
+  text-align: center;
+}
